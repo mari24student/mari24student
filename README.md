@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i am Mari 👋, a student i'm currently working on this project for school. 
 
 <!--
 **mari24student/mari24student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

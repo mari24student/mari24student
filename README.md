@@ -1,4 +1,4 @@
-### Hi i am Mari 👋, a student i'm currently working on this project for school. 
+### Hi i am Mari 👋, a student i'm currently working on this project for school. I like to read and watch series in my free time 😄
 
 <!--
 **mari24student/mari24student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
